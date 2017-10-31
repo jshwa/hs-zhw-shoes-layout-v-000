@@ -27,17 +27,17 @@
 .col-1 {
   float: left;
   width: 65.666%;
-  margin-left: 0px;
 }
 
 .col-2 {
   float: left;
   width: 32.333%;
+}
+
+[class*="col-"] {
   margin-left: 2%;
 }
 
 .first {
-  float: left;
-  width: 31%;
-  margin-left: 0px;
+  margin-left: 0%;
 }
