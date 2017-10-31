@@ -26,14 +26,14 @@
 
 .col-1 {
   float: left;
-  width: 66%;
+  width: 64.666%;
   margin-left: 0px;
 }
 
 .col-2 {
   float: left;
-  width: 32%;
-  margin-left: 2px;
+  width: 31.333%;
+  margin-left: 4%;
 }
 
 .first {
